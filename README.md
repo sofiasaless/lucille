@@ -10,36 +10,35 @@ por estabelecimentos comerciais no gerenciamento eficiente de funcionários e no
 Além de facilitar o controle das atividades de um funcionário, Lucille otimiza os gastos do estabelecimento. A aplicação oferece uma seção de finanças onde o usuário pode anotar despesas de diferentes categorias, visualizar o total de gastos
 específicos e compartilhá-los. Dessa forma, Lucille reduz processos manuais e proporciona maior transparência e agilidade na gestão financeira.
 
-
 ## Funcionalidades e uso
 
 ### Registro de funcionários
 
 ![Registro de funcionários](assets/gifs_example/cadastrarFuncionario.gif)
 
-### Atualização das informações do funcionário;
+### Atualização das informações do funcionário
 
-![Registro de funcionários](assets/gifs_example/atualizarPerfil.gif)
+![Atualização](assets/gifs_example/atualizarPerfil.gif)
 
 ### Adicionar produtos e quantias retirados **(vales)** do estabeleciomento pelos funcionários
 
-![Registro de funcionários](assets/gifs_example/adicaoNoVale.gif)
+![Vales](assets/gifs_example/adicaoNoVale.gif)
 
 ### Cálculo de pagamento para funcionários e histórico de vales
 
-![Registro de funcionários](assets/gifs_example/pagamentoComHistorico.gif)
+![Cálculo Pagamento](assets/gifs_example/pagamentoComHistorico.gif)
 
 ### Edição do cardápio de produtos do estabelecimento
 
-![Registro de funcionários](assets/gifs_example/edicaoCardapio.gif)
+![Edição Cardapio](assets/gifs_example/edicaoCardapio.gif)
 
 ### Controle e registro de finanças para o estabelecimento
 
-![Registro de funcionários](assets/gifs_example/gestaoFinancas.gif)
+![Controle de finaçasn](assets/gifs_example/gestaoFinancas.gif)
 
 ### Opção para compartilhar dados das finanças
 
-![Registro de funcionários](assets/gifs_example/compartilhamentoFinancaCategoria.gif)
+![Compartilhar finanças](assets/gifs_example/compartilhamentoFinancaCategoria.gif)
 
 ### Notificação de lembrete diário
 
@@ -78,4 +77,4 @@ Sua disponibilidade está voltada apenas para **Android** dadas as exigências d
 
 #### O aplicativo está disponível e pode ser usado por qualquer pessoa?
 
-Infelizmente não, o aplicativo Lucille foi desenvolvido e vendido com especificações para atender a um determinado usuário com suas exigências.
+Infelizmente não, o aplicativo Lucille foi desenvolvido e vendido com especificações para atender a um determinado cliente com suas exigências.
