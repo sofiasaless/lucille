@@ -15,31 +15,31 @@ específicos e compartilhá-los. Dessa forma, Lucille reduz processos manuais e 
 
 ### Registro de funcionários
 
-[Veja o vídeo de registro de funcionário](assets/videos_example/registroDeFuncionario.mp4)
+![Registro de funcionários](assets/gifs_example/cadastrarFuncionario.gif)
 
 ### Atualização das informações do funcionário;
 
-<video src="assets/videos_example/atualizandoPerfilFuncionario.mp4" width="216" height="480" controls></video>
+![Registro de funcionários](assets/gifs_example/atualizarPerfil.gif)
 
 ### Adicionar produtos e quantias retirados **(vales)** do estabeleciomento pelos funcionários
 
-<video src="assets/videos_example/adicaoDeProdutosNoVale.mp4" width="216" height="480" controls></video>
+![Registro de funcionários](assets/gifs_example/adicaoNoVale.gif)
 
 ### Cálculo de pagamento para funcionários e histórico de vales
 
-<video src="assets/videos_example/pagamentoComHistorico.mp4" width="216" height="480" controls></video>
+![Registro de funcionários](assets/gifs_example/pagamentoComHistorico.gif)
 
 ### Edição do cardápio de produtos do estabelecimento
 
-<video src="assets/videos_example/edicaoDoCardapio.mp4" width="216" height="480" controls></video>
+![Registro de funcionários](assets/gifs_example/edicaoCardapio.gif)
 
 ### Controle e registro de finanças para o estabelecimento
 
-<video src="assets/videos_example/compartilhamentoDeFinancasDoMes.mp4" width="216" height="480" controls></video>
+![Registro de funcionários](assets/gifs_example/gestaoFinancas.gif)
 
 ### Opção para compartilhar dados das finanças
 
-<video src="assets/videos_example/compartilhamentoDeFinancaPorCategoria.mp4" width="216" height="480" controls></video>
+![Registro de funcionários](assets/gifs_example/compartilhamentoFinancaCategoria.gif)
 
 ### Notificação de lembrete diário
 
