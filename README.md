@@ -15,7 +15,7 @@ específicos e compartilhá-los. Dessa forma, Lucille reduz processos manuais e 
 
 ### Registro de funcionários
 
-<video src="assets/videos_example/registroDeFuncionario.mp4" width="216" height="480" controls></video>
+[Veja o vídeo de registro de funcionário](assets/videos_example/registroDeFuncionario.mp4)
 
 ### Atualização das informações do funcionário;
 
